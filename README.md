@@ -1,5 +1,5 @@
 <h2 align="center"> 
-Hi there 👋 I'm Kay 👨‍💻 
+Hi! I'm Kay 👨‍💻 
 </h2>
 
 <p align="center">
