@@ -1,14 +1,15 @@
 <h2 align="center"> 
-Hi! I'm Kay 👨‍💻 
+Hi! I'm Kay! 👨‍💻 
 </h2>
 
-<p align="center">
-<img alt="Kay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KaylingW&show_icons=true&count_private=true&theme=dracula" />
-  </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="Kay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KaylingW&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
-<p align="center">
+<a href="https://github.com/anuraghazra/convoychat">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaylingW&layout=compact" />
-</p>
+</a>
+
 <!--
 **KaylingW/KaylingW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
