@@ -3,7 +3,7 @@ Hi! I'm Kay! 👨‍💻
 </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <p align="center"> <img alt="Kay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KaylingW&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </p>
+ <p align="center"> <img alt="Kay's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KaylingW&rank_icon=github&include_all_commits=true&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </p>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
